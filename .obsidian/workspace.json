@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb4c16c4d9e29d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e3e10e08194a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Julho/✅ Check List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "✅ Check List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rsm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e7973939567207e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Maio/🟢 Neppo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🟢 Neppo"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Julho/02.📅 TarefasJulho.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 02.📅 TarefasJulho"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Julho/02.📅 TarefasJulho.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 02.📅 TarefasJulho"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d8e3e10e08194a29",
+  "lastOpenFiles": [
+    "Julho/📅 Tarefas Julho.md",
+    "Julho/✅ Check List.md",
+    "Templates/✅ Check List.md",
+    "Templates/📅 Tarefas Julho.md",
+    "Templates",
+    "2025-07-04.md",
+    "Modelos/Modelo 02.md",
+    "Modelos/Modelo 04.md",
+    "Modelos/Modelo 03.md",
+    "Julho",
+    "Sem título 2.md",
+    "Sem título 3.md",
+    "07/2025-07-04.md",
+    "Julho/Sem título.md",
+    "07.Julho/2025-07-04.md",
+    "NotasDiarias/HabitTracker.md",
+    "Template/07.HabitTrackerJulho.md",
+    "Template/Sem título.md",
+    "HabitTracker.md",
+    "07",
+    "Nova pasta",
+    "Learn JS Basics with 30 days/04. 2635. Apply Transform Over Each Element in Array.md",
+    "Learn JS Basics with 30 days/03. 2704. To Be Or Not To Be.md",
+    "Learn JS Basics with 30 days/02. 2620. Counter.md",
+    "Learn JS Basics with 30 days/01. 2667. Create Hello World Function.md",
+    "Daily Questions/01. 594. Longest Harmonious Subsequence.md",
+    "Daily Questions",
+    "Learn JS Basics with 30 days/04. 2665. Counter II.md",
+    "A1.Iniciante - Vocabulário/13.Making suggestions.md",
+    "A1.Iniciante - Vocabulário/12.Asking permission.md",
+    "A1.Iniciante - Vocabulário/11.Requesting-offering.md",
+    "A1.Iniciante - Tópicos",
+    "A1.Iniciante - Vocabulário",
+    "A1.Iniciante - Gramática",
+    "06.Junho",
+    "1️⃣"
+  ]
+}
