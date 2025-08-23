@@ -19,7 +19,5 @@
   "Components@@file-names-untrim": false,
   "Components@@folder-font-bold": true,
   "Components@@file-icon-remove": false,
-  "Components@@outline-enhanced": false,
-  "Appearance-dark@@card-highlight-dark": false,
-  "Appearance-dark@@workspace-divider-transparent-dark": false
+  "Components@@outline-enhanced": false
 }

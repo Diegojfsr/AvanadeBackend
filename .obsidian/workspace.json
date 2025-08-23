@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7cb4c16c4d9e29d2",
+        "id": "fbe5706f5cebe9ee",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e3e10e08194a29",
+            "id": "275c867d96743d1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julho/📅 Tarefas Julho.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "📅 Tarefas Julho"
-            }
-          },
-          {
-            "id": "8ed9f9c7b6b89d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Julho/✅ Check List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "✅ Check List"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 347.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -124,13 +104,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Julho/02.📅 TarefasJulho.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 02.📅 TarefasJulho"
+              "title": "Sumário"
             }
           },
           {
@@ -139,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Julho/02.📅 TarefasJulho.md",
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 02.📅 TarefasJulho"
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
             }
           },
           {
@@ -180,13 +159,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,43 +175,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8ed9f9c7b6b89d67",
+  "active": "275c867d96743d1d",
   "lastOpenFiles": [
-    "Julho/📅 Tarefas Julho.md",
-    "Julho/✅ Check List.md",
-    "Templates/✅ Check List.md",
-    "Templates/📅 Tarefas Julho.md",
-    "Templates",
-    "2025-07-04.md",
-    "Modelos/Modelo 02.md",
-    "Modelos/Modelo 04.md",
-    "Modelos/Modelo 03.md",
-    "Julho",
-    "Sem título 2.md",
-    "Sem título 3.md",
-    "07/2025-07-04.md",
-    "Julho/Sem título.md",
-    "07.Julho/2025-07-04.md",
-    "NotasDiarias/HabitTracker.md",
-    "Template/07.HabitTrackerJulho.md",
-    "Template/Sem título.md",
-    "HabitTracker.md",
-    "07",
-    "Nova pasta",
-    "Learn JS Basics with 30 days/04. 2635. Apply Transform Over Each Element in Array.md",
-    "Learn JS Basics with 30 days/03. 2704. To Be Or Not To Be.md",
-    "Learn JS Basics with 30 days/02. 2620. Counter.md",
-    "Learn JS Basics with 30 days/01. 2667. Create Hello World Function.md",
-    "Daily Questions/01. 594. Longest Harmonious Subsequence.md",
-    "Daily Questions",
-    "Learn JS Basics with 30 days/04. 2665. Counter II.md",
-    "A1.Iniciante - Vocabulário/13.Making suggestions.md",
-    "A1.Iniciante - Vocabulário/12.Asking permission.md",
-    "A1.Iniciante - Vocabulário/11.Requesting-offering.md",
-    "A1.Iniciante - Tópicos",
-    "A1.Iniciante - Vocabulário",
-    "A1.Iniciante - Gramática",
+    "01.TypeScript Basics/14. Questionário de aliases de tipo.md",
+    "01.TypeScript Basics/01.Introdução ao TS.md",
+    "13.Projetos Avançados do TypeScript/03.Contact Management System Using TypeScript.md",
+    "13.Projetos Avançados do TypeScript/02.Task Management App Using TypeScript.md",
+    "13.Projetos Avançados do TypeScript/01.Quiz App Using Typescript.md",
+    "12.Fatos interessantes sobre o TypeScript/06.Fatos interessantes sobre módulos e namespaces no TypeScript.md",
+    "12.Fatos interessantes sobre o TypeScript/05.Fatos interessantes sobre genéricos no TypeScript.md",
+    "12.Fatos interessantes sobre o TypeScript/04.Fatos interessantes sobre classes e programação orientada a objetos no TypeScript.md",
+    "12.Fatos interessantes sobre o TypeScript/03.Fatos interessantes sobre tipos de objetos e interfaces no TypeScript.md",
+    "12.Fatos interessantes sobre o TypeScript/02.Fatos interessantes sobre funções no TypeScript.md",
+    "12.Fatos interessantes sobre o TypeScript/01.Fatos interessantes sobre os fundamentos do TypeScript.md",
+    "11.Configuração e desempenho do TypeScript/01.Ajuste de desempenho para compilação do TypeScript.md",
+    "11.Configuração e desempenho do TypeScript/02.TypeScript Configuration & Performance Quiz.md",
+    "10.TypeScript Testing/04.Testing with TypeScript Quiz.md",
+    "11.Configuração e desempenho do TypeScript/01.Otimizando tsconfig.json para grandes projetos.md",
+    "09.Módulos e namespaces TypeScript/02.O que é namespace em Typescript.md",
+    "10.TypeScript Testing/03.Type-safe Mocking in TypeScript.md",
+    "10.TypeScript Testing/02.Testando Frameworks in TypeScript.md",
+    "10.TypeScript Testing/01.Escrevendo testes de unidade com TypeScript.md",
+    "09.Módulos e namespaces TypeScript/03.Testing with TypeScript Quiz.md",
+    "09.Módulos e namespaces TypeScript/01.Módulos TypeScript.md",
+    "09.Módulos e namespaces TypeScript/02.Exportações padrão e nomeadas no TypeScript.md",
+    "08.Tipos avançados de TypeScript/07.Advanced Types in TypeScript Quiz.md",
+    "08.Tipos avançados de TypeScript/01.TS Type Assertions and Type Guards.md",
+    "08.Tipos avançados de TypeScript/06.Tipos de utilitários TS.md",
+    "05.Classes TypeScript e Programação Orientada a Objetos/07.TypeScript OOP Quiz.md",
     "06.Junho",
-    "1️⃣"
+    "1️⃣",
+    "Junho 4️⃣",
+    "05.Maio",
+    "4️⃣",
+    "3️⃣ Marco/Sem título"
   ]
 }
