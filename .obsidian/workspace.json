@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbe5706f5cebe9ee",
+        "id": "04d9eca62f13c7a3",
         "type": "tabs",
         "children": [
           {
-            "id": "275c867d96743d1d",
+            "id": "0ded34ae469a2727",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00.Avanade - Back-end com .NET e IA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00.Avanade - Back-end com .NET e IA"
+              "title": "Nova aba"
             }
           }
         ]
@@ -108,13 +104,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Avanade - Back-end com .NET e IA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 00.Avanade - Back-end com .NET e IA"
+              "title": "Sumário"
             }
           },
           {
@@ -180,9 +175,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "275c867d96743d1d",
+  "active": "0ded34ae469a2727",
   "lastOpenFiles": [
-    "00.Avanade - Back-end com .NET e IA.md",
+    "01.Primeiros Passos com a Avanade/03.Mentoria Live de Lançamento Avanade - Back-end com .NET e IA.md",
+    "01.Primeiros Passos com a Avanade/02.Curso Desafio Técnico Avanade.md",
+    "01.Primeiros Passos com a Avanade/01.Curso Introdução ao Back-end com .NET e IA com a Avanade.md",
+    "00.Avanade - Back-end com .NET e IA/01.Avanade - Back-end com .NET e IA.md",
+    "08.Introdução a Serviços de IA na Cloud com a Azure",
+    "07.Integração com Banco de Dados",
+    "06.Desenvolvimento de APIs",
+    "05.Programação Orientada a Objetos",
+    "04.Sintaxe Básica com .NET",
+    "03.Princípios de Desenvolvimento de Aplicações",
+    "01.Primeiros Passos com a Avanade",
+    "00.Avanade - Back-end com .NET e IA",
     "01.TypeScript Basics/14. Questionário de aliases de tipo.md",
     "01.TypeScript Basics/01.Introdução ao TS.md",
     "13.Projetos Avançados do TypeScript/03.Contact Management System Using TypeScript.md",
@@ -205,14 +211,7 @@
     "09.Módulos e namespaces TypeScript/03.Testing with TypeScript Quiz.md",
     "09.Módulos e namespaces TypeScript/01.Módulos TypeScript.md",
     "09.Módulos e namespaces TypeScript/02.Exportações padrão e nomeadas no TypeScript.md",
-    "08.Tipos avançados de TypeScript/07.Advanced Types in TypeScript Quiz.md",
-    "08.Tipos avançados de TypeScript/01.TS Type Assertions and Type Guards.md",
-    "08.Tipos avançados de TypeScript/06.Tipos de utilitários TS.md",
     "06.Junho",
-    "1️⃣",
-    "Junho 4️⃣",
-    "05.Maio",
-    "4️⃣",
-    "3️⃣ Marco/Sem título"
+    "1️⃣"
   ]
 }
