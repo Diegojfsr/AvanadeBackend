@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Sintaxe Básica com .NET/01.Curso Sintaxe e Tipos de Dados.md",
+                "file": "04.Programação Orientada a Objetos/11.Desafio de código Modelando Objetos e Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Curso Sintaxe e Tipos de Dados"
+              "title": "11.Desafio de código Modelando Objetos e Classes"
             }
           }
         ]
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Sintaxe Básica com .NET/01.Curso Sintaxe e Tipos de Dados.md",
+                "file": "04.Programação Orientada a Objetos/11.Desafio de código Modelando Objetos e Classes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Curso Sintaxe e Tipos de Dados"
+              "title": "Sumário de 11.Desafio de código Modelando Objetos e Classes"
             }
           },
           {
@@ -183,6 +183,17 @@
   },
   "active": "9eec032f0c4b7b24",
   "lastOpenFiles": [
+    "04.Programação Orientada a Objetos/10.Desafio de projeto Criando um Sistema e Abstraindo um Celular com POO.md",
+    "04.Programação Orientada a Objetos/09.Curso Classes Abstratas e Interfaces.md",
+    "04.Programação Orientada a Objetos/08.Curso Herança e Polimorfismo.md",
+    "04.Programação Orientada a Objetos/07.Curso Introdução Abstração e Encapsulamento.md",
+    "04.Programação Orientada a Objetos/06.Desafio de projeto Construindo um Sistema de Hospedagem de um Hotel.md",
+    "04.Programação Orientada a Objetos/05.Curso Nuget Serializar e Atributos.md",
+    "04.Programação Orientada a Objetos/04.Curso Tuplas Operador Ternário e Desconstrução de um Objeto.md",
+    "04.Programação Orientada a Objetos/03.Curso Excecoes e Colecoes.md",
+    "04.Programação Orientada a Objetos/02.Curso Manipulando Valores.md",
+    "04.Programação Orientada a Objetos/01.Curso Propriedades Métodos e Construtores.md",
+    "03.Sintaxe Básica com .NET/01.Curso Sintaxe e Tipos de Dados.md",
     "03.Sintaxe Básica com .NET/09.Desafio de código Explorando Variáveis e Operadores.md",
     "03.Sintaxe Básica com .NET/08.Curso Desafios de Código Aperfeiçoe Sua Lógica e Pensamento Computacional.md",
     "03.Sintaxe Básica com .NET/07.Desafio de projeto Construindo um Sistema para um Estacionamento.md",
@@ -191,7 +202,6 @@
     "03.Sintaxe Básica com .NET/04.Curso Conhecendo as Estruturas de Repetição.md",
     "03.Sintaxe Básica com .NET/03.Curso Operadores Aritméticos.md",
     "03.Sintaxe Básica com .NET/02.Curso Tipos de Operadores.md",
-    "03.Sintaxe Básica com .NET/01.Curso Sintaxe e Tipos de Dados.md",
     "02.Princípios de Desenvolvimento de Aplicações/05.Desafio de projeto Contribuindo em um Projeto Open Source no GitHub.md",
     "02.Princípios de Desenvolvimento de Aplicações/01.Curso Introdução ao .NET.md",
     "02.Princípios de Desenvolvimento de Aplicações/03.Curso Versionamento de Código com Git e GitHub.md",
@@ -199,16 +209,6 @@
     "02.Princípios de Desenvolvimento de Aplicações/04.Curso Desafios de Projetos Crie Um Portfólio Vencedor.md",
     "07.Introdução a Serviços de IA na Cloud com a Azure/04.Curso Conceitos de Processamento de Linguagem Natural.md",
     "07.Introdução a Serviços de IA na Cloud com a Azure/03.Curso Fundamentos do Aprendizado de Máquina.md",
-    "07.Introdução a Serviços de IA na Cloud com a Azure/02.Curso Conceitos Fundamentais de IA.md",
-    "07.Introdução a Serviços de IA na Cloud com a Azure/01.Curso Fundamentos da IA Generativa.md",
-    "06.Integração com Banco de Dados/01.Curso Introdução Banco de Dados.md",
-    "01.Primeiros Passos com a Avanade/03.Mentoria Live de Lançamento Avanade - Back-end com .NET e IA.md",
-    "01.Primeiros Passos com a Avanade/02.Curso Desafio Técnico Avanade.md",
-    "01.Primeiros Passos com a Avanade/01.Curso Introdução ao Back-end com .NET e IA com a Avanade.md",
-    "07.Introdução a Serviços de IA na Cloud com a Azure/06.Curso Trabalhando com Serviços Azure OpenAI.md",
-    "07.Introdução a Serviços de IA na Cloud com a Azure/05.Desafio de projeto Análise de Sentimentos com Language Studio no Azure AI.md",
-    "06.Integração com Banco de Dados/05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity.md",
-    "06.Integração com Banco de Dados/04.Curso Trabalhando com Entity Framework.md",
     "07.Introdução a Serviços de IA na Cloud com a Azure",
     "06.Integração com Banco de Dados",
     "05.Desenvolvimento de APIs",
