@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.Desenvolvimento de APIs/05.Desafio de código Explorando Endpoints e Requisições HTTP.md",
+                "file": "06.Integração com Banco de Dados/05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Desafio de código Explorando Endpoints e Requisições HTTP"
+              "title": "05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.Desenvolvimento de APIs/05.Desafio de código Explorando Endpoints e Requisições HTTP.md",
+                "file": "06.Integração com Banco de Dados/05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 05.Desafio de código Explorando Endpoints e Requisições HTTP"
+              "title": "Sumário de 05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity"
             }
           },
           {
@@ -198,6 +198,11 @@
   },
   "active": "3ddbbbcbf6abe49d",
   "lastOpenFiles": [
+    "06.Integração com Banco de Dados/04.Curso Trabalhando com Entity Framework.md",
+    "06.Integração com Banco de Dados/03.Curso Introdução ao MongoDB e Bancos de Dados NoSQL.md",
+    "06.Integração com Banco de Dados/02.Curso Introdução a Banco de Dados Relacionais.md",
+    "06.Integração com Banco de Dados/01.Curso Introdução Banco de Dados.md",
+    "05.Desenvolvimento de APIs/05.Desafio de código Explorando Endpoints e Requisições HTTP.md",
     "05.Desenvolvimento de APIs/04.Curso Primeiros Passos com o Docker.md",
     "05.Desenvolvimento de APIs/03.Curso Conhecendo e Instalando o Docker.md",
     "05.Desenvolvimento de APIs/01.Curso Introdução as APIs.md",
@@ -206,7 +211,6 @@
     "03.Sintaxe Básica com .NET/01.Curso Sintaxe e Tipos de Dados.md",
     "02.Princípios de Desenvolvimento de Aplicações/01.Curso Introdução ao .NET.md",
     "02.Princípios de Desenvolvimento de Aplicações/05.Desafio de projeto Contribuindo em um Projeto Open Source no GitHub.md",
-    "05.Desenvolvimento de APIs/05.Desafio de código Explorando Endpoints e Requisições HTTP.md",
     "04.Programação Orientada a Objetos/11.Desafio de código Modelando Objetos e Classes.md",
     "04.Programação Orientada a Objetos/10.Desafio de projeto Criando um Sistema e Abstraindo um Celular com POO.md",
     "04.Programação Orientada a Objetos/09.Curso Classes Abstratas e Interfaces.md",
@@ -220,10 +224,6 @@
     "03.Sintaxe Básica com .NET/09.Desafio de código Explorando Variáveis e Operadores.md",
     "03.Sintaxe Básica com .NET/08.Curso Desafios de Código Aperfeiçoe Sua Lógica e Pensamento Computacional.md",
     "03.Sintaxe Básica com .NET/07.Desafio de projeto Construindo um Sistema para um Estacionamento.md",
-    "03.Sintaxe Básica com .NET/06.Curso Array e Listas.md",
-    "03.Sintaxe Básica com .NET/05.Curso Conhecendo a Organização de um Programa.md",
-    "03.Sintaxe Básica com .NET/04.Curso Conhecendo as Estruturas de Repetição.md",
-    "03.Sintaxe Básica com .NET/03.Curso Operadores Aritméticos.md",
     "07.Introdução a Serviços de IA na Cloud com a Azure",
     "06.Integração com Banco de Dados",
     "05.Desenvolvimento de APIs",
