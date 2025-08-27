@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.Programação Orientada a Objetos/01.Curso Propriedades Métodos e Construtores.md",
+                "file": "02.Princípios de Desenvolvimento de Aplicações/01.Curso Introdução ao .NET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Curso Propriedades Métodos e Construtores"
+              "title": "01.Curso Introdução ao .NET"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Primeiros Passos com a Avanade/03.Mentoria Live de Lançamento Avanade - Back-end com .NET e IA.md",
+                "file": "06.Integração com Banco de Dados/05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Mentoria Live de Lançamento Avanade - Back-end com .NET e IA"
+              "title": "05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Primeiros Passos com a Avanade/03.Mentoria Live de Lançamento Avanade - Back-end com .NET e IA.md",
+                "file": "02.Princípios de Desenvolvimento de Aplicações/01.Curso Introdução ao .NET.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03.Mentoria Live de Lançamento Avanade - Back-end com .NET e IA"
+              "title": "Sumário de 01.Curso Introdução ao .NET"
             }
           },
           {
@@ -196,8 +195,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ddbbbcbf6abe49d",
+  "active": "9eec032f0c4b7b24",
   "lastOpenFiles": [
+    "06.Integração com Banco de Dados/05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity.md",
+    "06.Integração com Banco de Dados/02.Curso Introdução a Banco de Dados Relacionais.md",
+    "06.Integração com Banco de Dados/01.Curso Introdução Banco de Dados.md",
+    "02.Princípios de Desenvolvimento de Aplicações/01.Curso Introdução ao .NET.md",
+    "03.Sintaxe Básica com .NET/01.Curso Sintaxe e Tipos de Dados.md",
+    "04.Programação Orientada a Objetos/01.Curso Propriedades Métodos e Construtores.md",
+    "01.Primeiros Passos com a Avanade/03.Mentoria Live de Lançamento Avanade - Back-end com .NET e IA.md",
     "01.Primeiros Passos com a Avanade/02.Curso Desafio Técnico Avanade.md",
     "01.Primeiros Passos com a Avanade/01.Curso Introdução ao Back-end com .NET e IA com a Avanade.md",
     "00.Avanade - Back-end com .NET e IA/01.Avanade - Back-end com .NET e IA.md",
@@ -207,23 +213,16 @@
     "07.Introdução a Serviços de IA na Cloud com a Azure/03.Curso Fundamentos do Aprendizado de Máquina.md",
     "07.Introdução a Serviços de IA na Cloud com a Azure/02.Curso Conceitos Fundamentais de IA.md",
     "07.Introdução a Serviços de IA na Cloud com a Azure/01.Curso Fundamentos da IA Generativa.md",
-    "06.Integração com Banco de Dados/05.Desafio de projeto Construindo um Sistema de Agendamento de Tarefas com Entity.md",
     "06.Integração com Banco de Dados/04.Curso Trabalhando com Entity Framework.md",
     "06.Integração com Banco de Dados/03.Curso Introdução ao MongoDB e Bancos de Dados NoSQL.md",
-    "06.Integração com Banco de Dados/02.Curso Introdução a Banco de Dados Relacionais.md",
-    "06.Integração com Banco de Dados/01.Curso Introdução Banco de Dados.md",
     "05.Desenvolvimento de APIs/05.Desafio de código Explorando Endpoints e Requisições HTTP.md",
     "05.Desenvolvimento de APIs/04.Curso Primeiros Passos com o Docker.md",
     "05.Desenvolvimento de APIs/03.Curso Conhecendo e Instalando o Docker.md",
     "05.Desenvolvimento de APIs/01.Curso Introdução as APIs.md",
     "05.Desenvolvimento de APIs/02.Desafio de projeto Trabalhando com ASP.NET Minimals APIs.md",
-    "04.Programação Orientada a Objetos/01.Curso Propriedades Métodos e Construtores.md",
-    "03.Sintaxe Básica com .NET/01.Curso Sintaxe e Tipos de Dados.md",
-    "02.Princípios de Desenvolvimento de Aplicações/01.Curso Introdução ao .NET.md",
     "02.Princípios de Desenvolvimento de Aplicações/05.Desafio de projeto Contribuindo em um Projeto Open Source no GitHub.md",
     "04.Programação Orientada a Objetos/11.Desafio de código Modelando Objetos e Classes.md",
     "04.Programação Orientada a Objetos/10.Desafio de projeto Criando um Sistema e Abstraindo um Celular com POO.md",
-    "04.Programação Orientada a Objetos/09.Curso Classes Abstratas e Interfaces.md",
     "07.Introdução a Serviços de IA na Cloud com a Azure",
     "06.Integração com Banco de Dados",
     "05.Desenvolvimento de APIs",
