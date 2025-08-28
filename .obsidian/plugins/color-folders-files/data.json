@@ -95,6 +95,30 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#538589"
+    },
+    "00.Avanade - Back-end com .NET e IA": {
+      "backgroundColor": "#974c53"
+    },
+    "01.Primeiros Passos com a Avanade": {
+      "backgroundColor": "#957254"
+    },
+    "02.Princípios de Desenvolvimento de Aplicações": {
+      "backgroundColor": "#928557"
+    },
+    "03.Sintaxe Básica com .NET": {
+      "backgroundColor": "#3b5442"
+    },
+    "04.Programação Orientada a Objetos": {
+      "backgroundColor": "#496f74"
+    },
+    "05.Desenvolvimento de APIs": {
+      "backgroundColor": "#4a617c"
+    },
+    "06.Integração com Banco de Dados": {
+      "backgroundColor": "#665381"
+    },
+    "07.Introdução a Serviços de IA na Cloud com a Azure": {
+      "backgroundColor": "#906f87"
     }
   },
   "presets": {},
