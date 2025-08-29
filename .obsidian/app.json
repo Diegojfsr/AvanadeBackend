@@ -3,5 +3,8 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "rightToLeft": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true
 }

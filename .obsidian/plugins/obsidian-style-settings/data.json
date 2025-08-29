@@ -19,5 +19,9 @@
   "Components@@file-names-untrim": false,
   "Components@@folder-font-bold": true,
   "Components@@file-icon-remove": true,
-  "Components@@outline-enhanced": false
+  "Components@@outline-enhanced": true,
+  "Plugin@@DB-table-full-width-off": false,
+  "Plugin@@DB-table-bg-color": "DB-table-bg-color-default",
+  "Appearance-dark@@accent-color-override-dark": false,
+  "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-primary-dark"
 }
